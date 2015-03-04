@@ -9,7 +9,7 @@ Bootstrap Admin Template by EGrappler.com
 */
 
 body {
-	background: #f9f6f1;
+	background: #3E4148;
 	font: 13px/1.7em 'Open Sans';
 }
     
@@ -72,7 +72,7 @@ textarea {
 .navbar-inner {
 	padding: 7px 0;
 	
-	background: #00ba8b !important;
+	background: #21242C !important;
 	
 	-moz-border-radius: 0;
 	-webkit-border-radius: 0;
@@ -167,7 +167,7 @@ textarea {
 	
 	font-size: 12px;
 	font-weight: bold;
-	color: #b2afaa;
+	color: #21242C;
 }
 
 .subnavbar .container > ul > li > a:hover {
@@ -194,7 +194,7 @@ textarea {
 .subnavbar .container > ul > li.active > a {
 	
 	border-bottom:3px solid #ff7f74;
-	color: #383838;
+	color: 21242C;
 }
     
 
@@ -261,6 +261,7 @@ textarea {
 
 .main {
 	padding-bottom: 2em;
+	margin-top: 2em;
 	
 	
 }
@@ -1163,6 +1164,7 @@ color: #333;
 @media (max-width: 767px) {
     	
 	#main {
+		margin-top: 20px;
 		padding: 0 10px;
 		margin-right: -20px;
 		margin-left: -20px;	
