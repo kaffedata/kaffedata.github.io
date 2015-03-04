@@ -67,6 +67,7 @@ textarea {
 
 .navbar .container {
 	position: relative;
+
 }
 
 .navbar-inner {
@@ -81,6 +82,7 @@ textarea {
 
 .navbar-fixed-top {
 	position: static;
+
 }
 
 .navbar .nav a {
@@ -262,7 +264,7 @@ textarea {
 
 .main {
 	padding-bottom: 2em;
-	margin-top: 2em;
+	margin-top: 0em;
 	
 	
 }
@@ -353,6 +355,7 @@ textarea {
 	width: auto;
 	
 	margin-bottom: 2em;
+	margin-top: 2em;
 		
 	overflow: hidden;
 }
@@ -417,6 +420,7 @@ textarea {
 
 .widget-content {
 	padding: 20px 15px 15px;
+	margin-bottom: 4em;
 	
 	background: #FFF;
 	
