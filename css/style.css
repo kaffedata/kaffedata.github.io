@@ -59,7 +59,9 @@ textarea {
 
 
 
-
+.mainnav {
+	background-color: #ddd;
+}
 
 /*------------------------------------------------------------------
 [2. Navbar / .navbar]
@@ -121,6 +123,12 @@ textarea {
 /*------------------------------------------------------------------
 [3. Subnavbar / .subnavbar]
 */
+
+.home_away {
+
+	margin-left: 20%;
+	margin-top: 2em;
+}
 
 .subnavbar {
     	
